@@ -1,0 +1,26 @@
+#include <iostream>
+#include<string>
+//Mysolution
+using namespace std;
+
+  //void PrintMyName()
+  //{
+	//   cout << "Ra'ed Morad Haj-mohammed";
+  // 
+  //}
+  //
+  //int main()
+  //{
+	//   PrintMyName();
+  //}
+  
+//Mohammed's solution
+   void PrintName(string Name)
+   {
+	   cout << "\n Your name is " << Name << endl;
+   }
+   int main()
+   {
+	   PrintName("Mohammed");
+	   return 0;
+   }
